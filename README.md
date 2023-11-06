@@ -1,3 +1,3 @@
 # IceVision Intelligence
 
-<![Logo]"/Users/kristenkane/Library/Mobile Documents/com~apple~Preview/Documents/Icy Roads Logo.png">
+![Logo](Icy Roads Logo.png)
