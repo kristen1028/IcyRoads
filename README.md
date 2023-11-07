@@ -8,6 +8,8 @@ IceVision Intelligence is meant to promote vehicular safety, offering cutting-ed
 <img src = "Icy Roads 1.png" width = "350" height = "350">
 <img src = "Icy Roads 2.png" width = "450" height = "350">
 
+[Icy Road Slides](https://docs.google.com/presentation/d/18Q3D1hVQ1lUIEyh8BX9vg-vuHmLc5DF_ei9m_K_i3oY/edit?usp=sharing)
+
 # Goals
 ### Enhance Product Reliability: 
 Ensure that the technology is robust, accurate, and reliable under various environmental conditions. 
@@ -28,4 +30,4 @@ Fewer accidents mean less traffic disruption, which can lead to improved product
 ### Driver Confidence and Comfort: 
 Knowing that their vehicle is equipped to alert them about icy conditions can reduce driver anxiety during winter months, potentially leading to a more pleasant and less stressful driving experience.
 
-[Icy Road Slides](https://docs.google.com/presentation/d/18Q3D1hVQ1lUIEyh8BX9vg-vuHmLc5DF_ei9m_K_i3oY/edit?usp=sharing)
+
