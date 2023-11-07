@@ -9,7 +9,8 @@ IceVision Intelligence is meant to promote vehicular safety, offering cutting-ed
 <img src = "Icy Roads 2.png" width = "450" height = "350">
 
 # Goals
-1. Enhance Product Reliability: Ensure that the technology is robust, accurate, and reliable under various environmental conditions. 
+## 1. Enhance Product Reliability: 
+Ensure that the technology is robust, accurate, and reliable under various environmental conditions. 
 
 2. Build Strategic Partnerships: Collaborate with automotive manufacturers, road safety authorities, and navigation app developers.
 
