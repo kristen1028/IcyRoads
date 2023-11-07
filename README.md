@@ -1,3 +1,3 @@
 # IceVision Intelligence
 
-<img src = "IcyRoads.png" width = "150" height = "150">
+<img src = "IcyRoads.png" width = "300" height = "300">
