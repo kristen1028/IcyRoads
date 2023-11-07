@@ -6,7 +6,7 @@
 IceVision Intelligence is meant to promote vehicular safety, offering cutting-edge artificial intelligence solutions designed to combat one of winter's most perilous hazards: icy roads. Our mission is to enhance road safety through advanced detection systems that alert drivers to the presence of ice, reducing the risk of accidents. 
 
 <img src = "Icy Roads 1.png" width = "350" height = "350">
-<img src = "Icy Roads 2.png" width = "350" height = "350">
+<img src = "Icy Roads 2.png" width = "350" height = "450">
 
 # Goals
 1. Enhance Product Reliability: Ensure that the technology is robust, accurate, and reliable under various environmental conditions. 
