@@ -1,3 +1,3 @@
 # IceVision Intelligence
 
-!(/Users/kristenkane/Downloads/IcyRoads.png)
+<img src = "IcyRoads.png">
