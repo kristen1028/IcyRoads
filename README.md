@@ -19,10 +19,13 @@ Collaborate with automotive manufacturers, road safety authorities, and navigati
 Position the brand as a synonym for safety in winter driving conditions through targeted marketing campaigns.
 
 # Impact 
-1. Enhanced Road Safety: By providing accurate real-time data on road conditions, the technology could drastically reduce the number of accidents caused by icy roads. This would not only save lives but also reduce the number of injuries and the associated healthcare costs.
+## Enhanced Road Safety: 
+By providing accurate real-time data on road conditions, the technology could drastically reduce the number of accidents caused by icy roads. This would not only save lives but also reduce the number of injuries and the associated healthcare costs.
 
-2. Economic Benefits: Fewer accidents mean less traffic disruption, which can lead to improved productivity as people and goods reach their destinations on time. Additionally, the reduction in accidents would decrease the burden on emergency services and the costs associated with road repairs and vehicle damage.
+## Economic Benefits: 
+Fewer accidents mean less traffic disruption, which can lead to improved productivity as people and goods reach their destinations on time. Additionally, the reduction in accidents would decrease the burden on emergency services and the costs associated with road repairs and vehicle damage.
 
-3. Driver Confidence and Comfort: Knowing that their vehicle is equipped to alert them about icy conditions can reduce driver anxiety during winter months, potentially leading to a more pleasant and less stressful driving experience.
+## Driver Confidence and Comfort: 
+Knowing that their vehicle is equipped to alert them about icy conditions can reduce driver anxiety during winter months, potentially leading to a more pleasant and less stressful driving experience.
 
 [Icy Road Slides](https://docs.google.com/presentation/d/18Q3D1hVQ1lUIEyh8BX9vg-vuHmLc5DF_ei9m_K_i3oY/edit?usp=sharing)
