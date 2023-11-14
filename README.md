@@ -55,6 +55,6 @@ Implemented to reduce overfitting, dropout layers are included before the first 
 It accepts 224x224 RGB images as input.
 
 ## Diagram
-<img src = "AlexNet Diagram.png" width = "300" height = "300">
+<img src = "AlexNet Diagram.png" width = "450" height = "300">
 
 
