@@ -33,6 +33,34 @@ Knowing that their vehicle is equipped to alert them about icy conditions can re
 # What is AlexNet?
 AlexNet is a deep learning model primarily known for its proficiency in image recognition tasks. It consists of several convolutional layers, pooling layers, and fully connected layers. The strength of AlexNet lies in its ability to extract complex features from images, making it suitable for varied and intricate visual recognition tasks.
 
+## AlexNet Application in Ice Detection
+### Image Data Collection:
+Vehicles equipped with cameras and sensors would collect visual data of road surfaces in various conditions.
+This data could include images of roads under different weather conditions, times of day, and varying levels of traffic.
+
+### Pre-Processing:
+The raw images would need to be pre-processed for optimal analysis. This includes resizing, normalizing, and potentially augmenting the images to ensure consistency in the input data.
+
+### Feature Extraction:
+AlexNet would analyze these images to identify features that are indicative of icy conditions. This could include patterns, textures, and color changes on the road surface.
+The convolutional layers of AlexNet are adept at hierarchically extracting features, from basic edges and textures in the initial layers to more complex patterns in deeper layers.
+
+### Classification:
+After feature extraction, the network would classify the road condition based on the identified features. Essentially, it determines whether the image shows an icy road or not.
+The final layers of AlexNet, which are fully connected, would be responsible for this classification task.
+
+### Training and Validation:
+To achieve accurate results, AlexNet would be trained on a large dataset of road images, both with and without ice. This training allows the network to learn the distinguishing characteristics of icy roads.
+The model would be validated and tested on separate sets of images to ensure its reliability and accuracy in real-world conditions.
+
+### Integration and Real-Time Analysis:
+Once trained, the model would be integrated into IceVision Intelligence's system, where it would analyze real-time data from vehicle-mounted cameras.
+For real-time processing, the model might need optimization for speed without significantly compromising accuracy.
+
+### Feedback and Continuous Learning:
+The system would also include a feedback mechanism, where incorrect predictions are analyzed and used for further training, allowing the model to adapt to new patterns and conditions over time.
+
+
 ## Diagram
 <img src = "AlexNet Diagram.png" width = "500" height = "300">
 
