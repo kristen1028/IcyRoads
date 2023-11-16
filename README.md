@@ -73,4 +73,4 @@ In IceVision Intelligence's application of AlexNet for detecting ice on roads, f
 
 [Icy Roads Feature Maps](https://colab.research.google.com/drive/1p_u3RgqqhERl9GpCYy_fRvyMMO4TdCP2#scrollTo=mQb-EZfpq-N8)
 
-[Colab for Slides](https://colab.research.google.com/drive/1SFu8xmhaMBOpE4Pux3haIiHUlaUwtLwk#scrollTo=MJjTOJXQY7L2)
+[Colab for Slides](https://colab.research.google.com/drive/1lhwRcUwioteRZCgMaxRkPD7NmHMk5TSE#scrollTo=_8N1vmLLA3Dr)
