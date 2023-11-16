@@ -68,3 +68,5 @@ The system would also include a feedback mechanism, where incorrect predictions 
 In IceVision Intelligence's application of AlexNet for detecting ice on roads, feature maps play a pivotal role in processing and understanding visual data. These feature maps are generated through the convolution of filters across the input images, capturing essential features like edges, textures, and complex patterns specific to icy conditions. These maps not only facilitate accurate ice detection by preserving spatial information but also offer insights into the network's decision-making process, crucial for model optimization and ensuring reliability in this safety-critical application.
 
 <img src = "feature maps.png" width = "350" height = "350">
+
+[Icy Roads Feature Maps](https://colab.research.google.com/drive/1p_u3RgqqhERl9GpCYy_fRvyMMO4TdCP2#scrollTo=mQb-EZfpq-N8)
