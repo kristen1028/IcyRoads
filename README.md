@@ -65,4 +65,4 @@ The system would also include a feedback mechanism, where incorrect predictions 
 <img src = "AlexNet Diagram.png" width = "500" height = "300">
 
 # Feature Maps
-
+<img src = "feature maps.png" width = "350" height = "350">
