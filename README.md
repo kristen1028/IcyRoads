@@ -1,6 +1,7 @@
 # IceVision Intelligence
 
 Project by Kristen Kane
+
 <img src = "IcyRoads.png" width = "500" height = "500">
 
 # Objective
