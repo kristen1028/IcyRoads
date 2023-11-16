@@ -31,28 +31,7 @@ Fewer accidents mean less traffic disruption, which can lead to improved product
 Knowing that their vehicle is equipped to alert them about icy conditions can reduce driver anxiety during winter months, potentially leading to a more pleasant and less stressful driving experience.
 
 # What is AlexNet?
-AlexNet is a pioneering deep learning architecture that significantly advanced the field of computer vision. Key aspects include:
-
-### Five Convolutional Layers: 
-These layers extract features from images, starting with a large filter in the first layer and progressively smaller ones in subsequent layers.
-
-### ReLU Activation Function: 
-AlexNet popularized the use of ReLU (Rectified Linear Unit) for non-linear processing, enhancing training speed and performance compared to traditional sigmoid functions.
-
-### Max Pooling: 
-Applied after certain convolutional layers to reduce dimensionality and computational load, enhancing feature detection.
-
-### Overlapping Pooling: 
-This method, introduced by AlexNet, reduces overfitting compared to non-overlapping pooling.
-
-### Fully Connected Layers: 
-Three fully connected layers follow the convolutional layers, with the last one leading to a 1000-way softmax classification output.
-
-### Dropout:
-Implemented to reduce overfitting, dropout layers are included before the first and second fully connected layers.
-
-### Input Size:
-It accepts 224x224 RGB images as input.
+AlexNet is a deep learning model primarily known for its proficiency in image recognition tasks. It consists of several convolutional layers, pooling layers, and fully connected layers. The strength of AlexNet lies in its ability to extract complex features from images, making it suitable for varied and intricate visual recognition tasks.
 
 ## Diagram
 <img src = "AlexNet Diagram.png" width = "500" height = "300">
