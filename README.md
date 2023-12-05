@@ -37,6 +37,8 @@ The raw images would need to be pre-processed for optimal analysis. This include
 AlexNet would analyze these images to identify features that are indicative of icy conditions. This could include patterns, textures, and color changes on the road surface.
 The convolutional layers of AlexNet are adept at hierarchically extracting features, from basic edges and textures in the initial layers to more complex patterns in deeper layers.
 
+<img src = "feature maps.png" width = "350" height = "350">
+
 ### Classification:
 After feature extraction, the network would classify the road condition based on the identified features. Essentially, it determines whether the image shows an icy road or not.
 The final layers of AlexNet, which are fully connected, would be responsible for this classification task.
@@ -56,10 +58,7 @@ The system would also include a feedback mechanism, where incorrect predictions 
 ## Diagram
 <img src = "AlexNet Diagram.png" width = "500" height = "300">
 
-# Feature Maps
-In IceVision Intelligence's application of AlexNet for detecting ice on roads, feature maps play a pivotal role in processing and understanding visual data. These feature maps are generated through the convolution of filters across the input images, capturing essential features like edges, textures, and complex patterns specific to icy conditions. These maps not only facilitate accurate ice detection by preserving spatial information but also offer insights into the network's decision-making process, crucial for model optimization and ensuring reliability in this safety-critical application.
 
-<img src = "feature maps.png" width = "350" height = "350">
 
 [Icy Roads Feature Maps](https://colab.research.google.com/drive/1p_u3RgqqhERl9GpCYy_fRvyMMO4TdCP2#scrollTo=mQb-EZfpq-N8)
 
