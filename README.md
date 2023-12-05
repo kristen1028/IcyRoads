@@ -12,16 +12,6 @@ IceVision Intelligence is meant to promote vehicular safety, offering cutting-ed
 
 [Icy Road Slides](https://docs.google.com/presentation/d/18Q3D1hVQ1lUIEyh8BX9vg-vuHmLc5DF_ei9m_K_i3oY/edit?usp=sharing)
 
-# Goals
-### Enhance Product Reliability: 
-Ensure that the technology is robust, accurate, and reliable under various environmental conditions. 
-
-### Build Strategic Partnerships: 
-Collaborate with automotive manufacturers, road safety authorities, and navigation app developers.
-
-### Increase Market Presence: 
-Position the brand as a synonym for safety in winter driving conditions through targeted marketing campaigns.
-
 # Impact 
 ### Enhanced Road Safety: 
 By providing accurate real-time data on road conditions, the technology could drastically reduce the number of accidents caused by icy roads. This would not only save lives but also reduce the number of injuries and the associated healthcare costs.
