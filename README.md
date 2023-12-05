@@ -39,6 +39,8 @@ The convolutional layers of AlexNet are adept at hierarchically extracting featu
 
 <img src = "feature maps.png" width = "350" height = "350">
 
+[Icy Roads Feature Maps](https://colab.research.google.com/drive/1p_u3RgqqhERl9GpCYy_fRvyMMO4TdCP2#scrollTo=mQb-EZfpq-N8)
+
 ### Classification:
 After feature extraction, the network would classify the road condition based on the identified features. Essentially, it determines whether the image shows an icy road or not.
 The final layers of AlexNet, which are fully connected, would be responsible for this classification task.
@@ -60,7 +62,6 @@ The system would also include a feedback mechanism, where incorrect predictions 
 
 
 
-[Icy Roads Feature Maps](https://colab.research.google.com/drive/1p_u3RgqqhERl9GpCYy_fRvyMMO4TdCP2#scrollTo=mQb-EZfpq-N8)
 
 [Colab for Slides](https://colab.research.google.com/drive/1lhwRcUwioteRZCgMaxRkPD7NmHMk5TSE#scrollTo=_8N1vmLLA3Dr)
 
