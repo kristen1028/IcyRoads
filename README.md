@@ -81,7 +81,7 @@ The graphs below indicate the training accuracy and loss over the course of the 
 
 Integrating MoveNet in an ice detection system for vehicles can significantly enhance safety features, not only by detecting and reacting to external conditions like icy roads but also by monitoring and responding to human factors inside and outside the vehicle.
 
-## Enhanced Pedestrian Monitoring
+### Enhanced Pedestrian Monitoring
 * **Accurate Pose Recognition:** MoveNet's ability to accurately recognize human poses can be crucial for identifying pedestrians in or near the roadway under icy conditions, where visibility might be reduced or pedestrians might behave unpredictably due to slippery surfaces.
 * **Identifying Falls:** MoveNet can potentially detect unusual poses or sudden changes that might indicate a pedestrian has slipped on the ice. This can alert the driver to slow down or stop to avoid endangering the fallen individual.
 
