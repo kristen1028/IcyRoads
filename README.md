@@ -60,7 +60,7 @@ The system would also include a feedback mechanism, where incorrect predictions 
 ## Diagram
 <img src = "AlexNet Diagram.png" width = "500" height = "300">
 
-
+# Results
 
 
 [Colab for Slides](https://colab.research.google.com/drive/1lhwRcUwioteRZCgMaxRkPD7NmHMk5TSE#scrollTo=_8N1vmLLA3Dr)
