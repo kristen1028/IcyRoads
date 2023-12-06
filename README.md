@@ -68,6 +68,8 @@ The graphs below indicate the training accuracy and loss over the course of the 
 ## Run Summary
 <img src = "percentage" width = "550" height = "90">
 
+81% accuracy
+
 [Colab for Slides](https://colab.research.google.com/drive/1lhwRcUwioteRZCgMaxRkPD7NmHMk5TSE#scrollTo=_8N1vmLLA3Dr)
 
 For more information contact: @kanek2022@fau.edu 
