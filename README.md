@@ -64,6 +64,7 @@ The system would also include a feedback mechanism, where incorrect predictions 
 The graphs below indicate the training accuracy and loss over the course of the training runs:
 <img src = "W&B Chart 12_5_2023, 7_59_33 PM.png" width = "400" height = "250">
 <img src = "W&B Chart 12_5_2023, 7_59_18 PM.png" width = "400" height = "250">
+[Weights & Biases](https://wandb.ai/kristen-kane/Linear_Model_Photo_1/runs/rfc7hi1x?workspace=user-kristen-kane1028)
 
 ## Run Summary
 <img src = "percentage" width = "550" height = "90">
