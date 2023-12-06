@@ -79,4 +79,6 @@ The graphs below indicate the training accuracy and loss over the course of the 
 
 <img src = "MoveNet Example" width = "400" height = "250">
 
+Integrating MoveNet in an ice detection system for vehicles can significantly enhance safety features, not only by detecting and reacting to external conditions like icy roads but also by monitoring and responding to human factors inside and outside the vehicle.
+
 For more information contact: @kanek2022@fau.edu 
