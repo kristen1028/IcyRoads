@@ -64,7 +64,9 @@ The system would also include a feedback mechanism, where incorrect predictions 
 The graphs below indicate the training accuracy and loss over the course of the training runs:
 <img src = "W&B Chart 12_5_2023, 7_59_33 PM.png" width = "400" height = "250">
 <img src = "W&B Chart 12_5_2023, 7_59_18 PM.png" width = "400" height = "250">
-<img src = "percentage" width = "500" height = "75">
+
+## Run Summary
+<img src = "percentage" width = "550" height = "90">
 
 [Colab for Slides](https://colab.research.google.com/drive/1lhwRcUwioteRZCgMaxRkPD7NmHMk5TSE#scrollTo=_8N1vmLLA3Dr)
 
