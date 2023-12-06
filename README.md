@@ -74,4 +74,7 @@ The graphs below indicate the training accuracy and loss over the course of the 
 
 [Colab for Slides](https://colab.research.google.com/drive/1lhwRcUwioteRZCgMaxRkPD7NmHMk5TSE#scrollTo=_8N1vmLLA3Dr)
 
+# Pose
+[Pose Machine Colab](https://colab.research.google.com/drive/1FGiIFSl5hHhYGstDBIPDu5QLdALGaygl#scrollTo=9B57XS0NZPIy)
+
 For more information contact: @kanek2022@fau.edu 
