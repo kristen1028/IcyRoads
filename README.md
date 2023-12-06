@@ -76,6 +76,7 @@ The graphs below indicate the training accuracy and loss over the course of the 
 
 # Pose
 [Pose Machine Colab](https://colab.research.google.com/drive/1FGiIFSl5hHhYGstDBIPDu5QLdALGaygl#scrollTo=9B57XS0NZPIy)
+
 <img src = "MoveNet Example" width = "400" height = "250">
 
 For more information contact: @kanek2022@fau.edu 
