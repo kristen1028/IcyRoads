@@ -61,7 +61,8 @@ The system would also include a feedback mechanism, where incorrect predictions 
 <img src = "AlexNet Diagram.png" width = "500" height = "300">
 
 # Results
-
+The graphs below indicate the training accuracy and loss over the course of the training runs:
+<img src = "
 
 [Colab for Slides](https://colab.research.google.com/drive/1lhwRcUwioteRZCgMaxRkPD7NmHMk5TSE#scrollTo=_8N1vmLLA3Dr)
 
